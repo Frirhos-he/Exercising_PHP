@@ -1,3 +1,2 @@
-# Portfolio
-## Cose da fare
-    - Navbar
+# EXERCISE
+## UNDERSTANDING FEATURES OF PHP AS WELL AS CSS COMMANDS
